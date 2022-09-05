@@ -19,7 +19,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" width="42" alt="laravel logo"  />
 </div>
 
-###
+### 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=tenworx" height="150" alt="stats graph"  />
@@ -31,12 +31,4 @@
 ![snake gif](https://github.com/saibdev/saibdev/blob/output/github-contribution-grid-snake.svg)
 
 ###
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tenworx&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tenworx&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tenworx&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=tenworx&icon=0&color=0)](https://visitcount.itsvg.in)
 
